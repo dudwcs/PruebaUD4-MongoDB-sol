@@ -1,5 +1,5 @@
 ﻿<!doctype html>
-<!-- Respuesta 7.A) composer install -->
+<!-- Respuesta 3.A) composer install -->
 <html lang="es">
 
 <head>
